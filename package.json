@@ -1,0 +1,18 @@
+{
+  "name": "jest-toturial",
+  "version": "1.0.0",
+  "description": "dive inito jest ",
+  "main": "index.js",
+  "scripts": {
+    "test" : "jest"
+  },
+  "repository": {
+    "url": "git@github.com:lvpeng/jest-toturial.git",
+    "type": "git"
+  },
+  "author": "penglu <lvpeng-333@163.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^18.1.0"
+  }
+}
